@@ -12,7 +12,7 @@ To get location of disk, run the command below.
 
 I ran into following issue of not properly shut down window as I am using hard drive from my old laptop. 
 
-![](/Users/navpreetkaur/Desktop/error.png "Optional Title")
+![](error.png "Optional Title")
 
 if above issue appear run the following command:
 
